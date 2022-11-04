@@ -7,6 +7,6 @@ For an extended version of the concepts, tools, and techniques described here, c
 - The book [Practicing Trustworthy Machine Learning](https://www.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/), and
 - The accompanying [GitHub repository](https://github.com/matthew-mcateer/practicing_trustworthy_machine_learning) to the book.
 
-## Contacts
+## Contact
 
 For questions, comments, and feedback, feel free to open a PR or reach out the the author through [e-mail](mailto:subho@5cubelabs.us).
